@@ -33,10 +33,10 @@ screen 4.09.00
 ├── new_server.sh               // application  
 ├── base                        // configuration  
 │   ├── version  
-│   │   ├── 1.16.3              // bukkit configuration  
+│   │   ├── 1.16.3             
 │   │   └── 1.18.1  
-│   ├── fabric-installer-1.0.1.jar // development environment  
-│   └── start.sh                // experimental  
+│   ├── fabric-installer-1.0.1.jar 
+│   └── start.sh               
 └── natapp  
     ├── config.ini             // natapp configuration  
     └── natapp                  // natapp client  
